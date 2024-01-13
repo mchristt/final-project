@@ -1,0 +1,18 @@
+names:
+- box
+- cone
+- drum
+- face
+- forklift
+- ibc
+- person
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: fix-factobjs
+  url: https://universe.roboflow.com/skripsi-m3abu/fix-factobjs/dataset/7
+  version: 7
+  workspace: skripsi-m3abu
+test: ../test/images
+train: Fix-FactObjs-7/train/images
+val: Fix-FactObjs-7/valid/images
